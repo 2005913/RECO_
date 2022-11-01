@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">112375016122-rthtek2dq9t1efv9a3ia68vu8b8h9k5p.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">112375016122</string>
+    <string name="google_api_key" translatable="false">AIzaSyDx70lH67NOHdYRCVyAb1eSIeTNMZIlL24</string>
+    <string name="google_app_id" translatable="false">1:112375016122:android:953d14473113777ad2b083</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDx70lH67NOHdYRCVyAb1eSIeTNMZIlL24</string>
+    <string name="google_storage_bucket" translatable="false">reco-cfd59.appspot.com</string>
+    <string name="project_id" translatable="false">reco-cfd59</string>
+</resources>
